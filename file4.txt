@@ -1,6 +1,0 @@
-tts is a faggot
-<<<<<<< HEAD
-sdaasd
-sdads
-=======
->>>>>>> 80ab422aae1d25e2ae365982bb83b870386fd925
